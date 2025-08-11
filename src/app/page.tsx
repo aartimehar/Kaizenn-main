@@ -4,7 +4,7 @@ import TutorsSection from "@/components/landing/tutors-section";
 import TestimonialsSection from "@/components/landing/testimonials-section";
 import PhilosophySection from "@/components/landing/philosophy-section";
 import ContactSection from "@/components/landing/contact-section";
-
+import { BishopIcon, QueenIcon, KingIcon, KnightIcon } from "@/components/icons";
 export default function Home() {
   return (
     <div className="flex flex-col">

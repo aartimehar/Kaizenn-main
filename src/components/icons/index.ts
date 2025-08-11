@@ -1,3 +1,5 @@
 export { BishopIcon } from "./bishop-icon";
-// Add other icons here, e.g.:
-// export { AnotherIcon } from "./another-icon";
+export { QueenIcon } from "./queen-icon";
+export { KingIcon } from "./king-icon";
+export { KnightIcon } from "./knight-icon";
+// Add other icons as needed
