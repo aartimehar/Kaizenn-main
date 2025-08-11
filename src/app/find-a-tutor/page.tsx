@@ -29,7 +29,7 @@ export default function FindATutorPage() {
               <SelectContent>
                 <SelectItem value="physics">Physics</SelectItem>
                 <SelectItem value="literature">Literature</SelectItem>
-                <SelectItem value="math">Mathematics</SelectItem>
+                <SelectItem value="Math">Mathematics</SelectItem>
                 <SelectItem value="history">History</SelectItem>
               </SelectContent>
             </Select>
