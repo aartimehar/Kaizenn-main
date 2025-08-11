@@ -1,6 +1,5 @@
 import { cn } from "@/lib/utils";
 import type { SVGProps } from "react";
-
 export function BishopIcon(props: SVGProps<SVGSVGElement>) {
   return (
     <svg
